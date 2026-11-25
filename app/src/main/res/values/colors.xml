@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gruvbox light. values-night/colors.xml holds Gruvbox dark under the same names. -->
+<resources>
+    <color name="bg">#FBF1C7</color>
+    <color name="bg_raised">#EBDBB2</color>
+    <color name="bg_selected">#D5C4A1</color>
+    <color name="fg">#3C3836</color>
+    <color name="fg_secondary">#504945</color>
+    <color name="fg_muted">#7C6F64</color>
+    <color name="accent">#B57614</color>
+    <color name="lemma">#AF3A03</color>
+
+    <!-- The launcher icon is the same in both modes. -->
+    <color name="icon_background">#282828</color>
+</resources>

@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+captures/
+*.jks
+*.keystore
+# Downloaded sources and the database built from them (see README)
+data/
+app/src/main/assets/dict.db

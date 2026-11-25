@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wörterbuch</string>
+    <string name="search_hint">Deutsch or English</string>
+    <string name="clear">Clear</string>
+    <string name="about">About</string>
+    <string name="close">Close</string>
+    <string name="preparing">Preparing the dictionary…</string>
+    <string name="prepare_failed">Couldn\'t prepare the dictionary. Free up some storage, then open the app again.</string>
+    <string name="intro">Type a word in German or English.\n\nInflected forms work too: try “ging”, “Häusern” or “fing an”.</string>
+    <string name="no_results">No entries for “%1$s”.</string>
+    <string name="form_of">%1$s — %2$s of %3$s</string>
+    <string name="about_text">Dictionary: Ding German–English, version %1$s (%2$s entries). © Frank Richter, 1995–2026. GNU General Public License, version 2 or later. https://dict.zero-g.net/\n\nInflected forms (%3$s): Wiktionary, by way of Kaikki.org. Creative Commons Attribution-ShareAlike 4.0. https://kaikki.org/</string>
+</resources>
