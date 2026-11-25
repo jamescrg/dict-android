@@ -60,3 +60,8 @@ or two.
 4. Several words: sub-entries that contain all of them. Two words that make a separable verb
    ("fing an") also find the joined verb ("anfangen").
 5. If nothing matches, "ae", "oe" and "ue" are read as umlauts.
+
+## Licence
+
+The app's code is licensed under the GNU General Public License, version 3 (see `LICENSE`).
+The dictionary data keeps its own licences, listed under Data above.
